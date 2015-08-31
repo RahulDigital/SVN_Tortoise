@@ -6,7 +6,7 @@ public class TestCase1 {
 		// TODO Auto-generated method stub
 		System.out.println("This is test case 1");
 		//Update by user 1 and commit - User 2 offiline
-		//Update by user 2 and commit - User 2 online
+		//Update by user 2 and commit - User 2 online - USer 2 line
 		Server line
 My new linew
 my 2 new line - by user 2 on same line
