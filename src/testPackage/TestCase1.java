@@ -9,7 +9,7 @@ public class TestCase1 {
 		//Update by user 2 and commit - User 2 online
 		Server line
 My new linew
-my 2 new line
+my 2 new line - by user 1 on same line
 	}
 
 }
