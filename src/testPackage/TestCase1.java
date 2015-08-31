@@ -7,7 +7,11 @@ public class TestCase1 {
 		System.out.println("This is test case 1");
 		//Update by user 1 and commit - User 2 offiline
 		//Update by user 2 and commit - User 2 online
+<<<<<<< .mine
+		//Update by user 2 and commit - User 2 online
+=======
 				//Update by user 1 and commit - User 2 online
+>>>>>>> .r8
 	}
 
 }
